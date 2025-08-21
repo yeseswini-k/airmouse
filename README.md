@@ -30,6 +30,3 @@ All gestures are **smooth, responsive, and work in real-time** with your webcam.
 - [PyAutoGUI](https://pyautogui.readthedocs.io/) – for controlling the system mouse/keyboard  
 
 ---
-
-## 📂 Project Structure
-
